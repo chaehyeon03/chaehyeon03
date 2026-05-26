@@ -12,8 +12,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05028?style=flat-square&logo=git&logoColor=white)
 
-
----
-
-<!-- 선택 사항: GitHub 통계 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[chaehyeon03]&show_icons=true&theme=default&hide_border=true)
