@@ -1,5 +1,7 @@
 # Hi, I'm chaehyeon 👋
 
+---
+
 ## 🛠 Tech Stack
 
 **Frontend**
