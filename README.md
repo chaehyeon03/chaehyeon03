@@ -1,4 +1,4 @@
-# Hi, I'm chaehyeon 👋
+## Hi, I'm chaehyeon 👋
 
 ---
 
