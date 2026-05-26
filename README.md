@@ -36,7 +36,9 @@
 | **[📍 Midpoint](https://github.com/Solucitation)** <br> 약속 장소 중간 지점 찾기 서비스 | 2024.03 – 2024.08 | PM | `Figma` `Notion` |
 | **[🗂 in/space](https://github.com/2024-2-SOLUX-in-space)** <br> 공감각적 멀티미디어 아카이빙 서비스 | 2024.09 – 2025.01 | PM · FE | `React` `JavaScript` `Axios` `styled-components` `Figma` `Notion` |
 | **[🏠 Roomfit](https://github.com/ro-omfit/Roomfit)** <br> 나에게 맞는 룸메이트 찾기 서비스 | 2024.10 – 2024.12 | FE | `Kotlin` `Jetpack Compose` `Figma` |
+| **[🔬 AI Model Enhancement](https://github.com/kumar-narender/ai-model-enhancement-e.SIC-GmbH)** <br> AI 모델 오탐률 감소를 위한 백본 및 프레임워크 비교 연구 | 2025.03 – 2025.08 | Research | `Python` |
 | **[✍️ Highlite](https://github.com/Team-HyeongGwang)** <br> 사용자 필기 내 중요도 기반 맞춤 문제 생성 서비스 | 2026.03 – 현재 | FE · BE · AI | `Python` `Streamlit` `OpenAI API` `Claude API` |
+
 
 <br><br>
 
