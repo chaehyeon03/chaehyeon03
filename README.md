@@ -1,5 +1,7 @@
 # Hi, I'm chaehyeon
 
+<br>
+
 ## 🛠 Tech Stack
 
 **Frontend**
@@ -25,6 +27,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
+<br><br>
 
 ## 🚀 Projects
 
@@ -35,7 +38,7 @@
 | **[🏠 Roomfit](https://github.com/ro-omfit/Roomfit)** <br> 나에게 맞는 룸메이트 찾기 서비스 | 2024.10 – 2024.12 | FE | `Kotlin` `Jetpack Compose` `Figma` |
 | **[✍️ Highlite](https://github.com/Team-HyeongGwang)** <br> 사용자 필기 내 중요도 기반 맞춤 문제 생성 서비스 | 2026.03 – 현재 | FE · BE · AI | `Python` `Streamlit` `OpenAI API` `Claude API` |
 
-
+<br><br>
 
 ## 🏫 Activity
 
