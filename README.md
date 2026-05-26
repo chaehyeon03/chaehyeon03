@@ -26,18 +26,69 @@
 
 ## 🚀 Projects
 
-| 기간 | 프로젝트 | 역할 | 기술 스택 |
-|------|----------|------|-----------|
-| 2024.03 – 2024.08 | **[📍 Midpoint](https://github.com/Solucitation)** <br> 약속 장소 중간 지점 찾기 서비스 | PM | `Figma` `Notion` |
-| 2024.09 – 2025.01 | **[🗂 in/space](https://github.com/2024-2-SOLUX-in-space)** <br> 공감각적 멀티미디어 아카이빙 서비스 | PM · FE | `React` `JavaScript` `Axios` `styled-components` `Figma` `Notion` |
-| 2024.10 – 2024.12 | **[🏠 Roomfit](https://github.com/ro-omfit/Roomfit)** <br> 나에게 맞는 룸메이트 찾기 서비스 | FE | `Kotlin` `Jetpack Compose` `Figma` |
-| 2026.03 – 현재 | **[✍️ Highlite](https://github.com/Team-HyeongGwang)** <br> 사용자 필기 내 중요도 기반 맞춤 문제 생성 서비스 | FE · BE · AI | `Python` `Streamlit` `OpenAI API` `Claude API` |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트</th>
+      <th>기간</th>
+      <th>역할</th>
+      <th>기술 스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Solucitation"><b>📍 Midpoint</b></a><br><sub>약속 장소 중간 지점 찾기 서비스</sub></td>
+      <td>2024.03 – 2024.08</td>
+      <td>PM</td>
+      <td><code>Figma</code> <code>Notion</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/2024-2-SOLUX-in-space"><b>🗂 in/space</b></a><br><sub>공감각적 멀티미디어 아카이빙 서비스</sub></td>
+      <td>2024.09 – 2025.01</td>
+      <td>PM · FE</td>
+      <td><code>React</code> <code>JavaScript</code> <code>Axios</code> <code>styled-components</code> <code>Figma</code> <code>Notion</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ro-omfit/Roomfit"><b>🏠 Roomfit</b></a><br><sub>나에게 맞는 룸메이트 찾기 서비스</sub></td>
+      <td>2024.10 – 2024.12</td>
+      <td>FE</td>
+      <td><code>Kotlin</code> <code>Jetpack Compose</code> <code>Figma</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Team-HyeongGwang"><b>✍️ Highlite</b></a><br><sub>사용자 필기 내 중요도 기반 맞춤 문제 생성 서비스</sub></td>
+      <td>2026.03 – 현재</td>
+      <td>FE · BE · AI</td>
+      <td><code>Python</code> <code>Streamlit</code> <code>OpenAI API</code> <code>Claude API</code></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ---
 
 ## 🏫 Activity
 
-| 활동 | 기간 | 설명 |
-|------|------|------|
-| **SOLUX** — 숙명여자대학교 중앙 프로그래밍 동아리 | 2024.03 – 2025.02 | 다양한 프로젝트와 스터디 참여 |
-| **교환학생** — DIT (독일) | 2025.03 – 2025.08 | 독일 교환학생 프로그램 참여 |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>활동</th>
+      <th>기간</th>
+      <th>설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>SOLUX</b></td>
+      <td>2024.03 – 2025.02</td>
+      <td>숙명여자대학교 중앙 프로그래밍 동아리</td>
+    </tr>
+    <tr>
+      <td><b>교환학생</b></td>
+      <td>2025.03 – 2025.08</td>
+      <td>독일 교환학생 프로그램 참여</td>
+    </tr>
+  </tbody>
+</table>
+</div>
